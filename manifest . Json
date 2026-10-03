@@ -1,0 +1,16 @@
+{
+  "name": "Les Délices de Davila",
+  "short_name": "Davila",
+  "description": "Restaurant ivoirien à Marrakech",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#d4a017",
+  "icons": [
+    {
+      "src": "images/logo-davila.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

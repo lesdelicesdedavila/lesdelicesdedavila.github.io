@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu | Les Délices de Davila</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <div class="logo">
+        <img src="images/logo-davila.png" alt="Logo">
+    </div>
+
+    <div class="menu">
+        <a href="index.html">Accueil</a>
+        <a href="menu.html">Menu</a>
+        <a href="contact.html">Contact</a>
+    </div>
+</nav>
+
+<section class="menu-section reveal" style="padding-top:140px;">
+
+    <h1>Notre Menu</h1>
+
+    <p>Découvrez nos spécialités ivoiriennes.</p>
+
+    <div class="cards">
+
+        <div class="card">
+            <img src="images/garba.avif" alt="Garba">
+            <div class="card-top">
+                <h3>Garba</h3>
+                <span class="price">40 MAD</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="images/poisson braise.jpg" alt="Poisson braisé">
+            <div class="card-top">
+                <h3>Poisson braisé</h3>
+                <span class="price">120 MAD</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="images/foutou-banane.jpg.jpeg" alt="Foutou banane">
+            <div class="card-top">
+                <h3>Foutou banane</h3>
+                <span class="price">90 MAD</span>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-col">
+            <h3>Les Délices de Davila</h3>
+            <p>Restaurant ivoirien à Marrakech.</p>
+        </div>
+
+        <div class="footer-col">
+            <h3>Contact</h3>
+            <p>📞 0664553220</p>
+        </div>
+    </div>
+
+    <hr>
+
+    <p class="copyright">
+        © 2026 Les Délices de Davila
+    </p>
+</footer>
+
+</body>
+</html>
